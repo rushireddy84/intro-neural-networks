@@ -1,2 +1,3 @@
 # intro-neural-networks
-Introduction to Neural Networks
+Project A - Information Signal
+Project B - SVHN
